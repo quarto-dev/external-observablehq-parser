@@ -1,7 +1,7 @@
 {
   "name": "@quarto/external-observablehq-parser",
   "description": "A fork of ObservableHQ's Acorn parser for Observable JavaScript",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "author": {
     "name": "quarto-dev (RStudio PBC).",
     "url": "https://quarto.org"
